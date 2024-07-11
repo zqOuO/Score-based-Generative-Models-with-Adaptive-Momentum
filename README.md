@@ -77,6 +77,15 @@ and
   year={2023},
   url={http://dx.doi.org/10.3233/FAIA230568}
 }
+
+@article{Wen2024ScorebasedGM,
+  title={Score-based Generative Models with Adaptive Momentum},
+  author={Ziqing Wen and Xiaoge Deng and Ping Luo and Tao Sun and Dongsheng Li},
+  journal={ArXiv},
+  year={2024},
+  volume={abs/2405.13726},
+  url={https://api.semanticscholar.org/CorpusID:269982664}
+}
 ```
 
 
